@@ -1,6 +1,6 @@
 .active{
-    background-color: greenyellow;
-    text-decoration: underline;
+    background-color:gainsboro;
+    color: red;
     padding: 6px;
     border-radius: 5px;
 }
