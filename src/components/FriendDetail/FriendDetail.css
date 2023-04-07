@@ -5,3 +5,7 @@
     margin: 8px;
     text-align: left;
 }
+
+.FriendDetails button{
+    background-color: red;;
+}
